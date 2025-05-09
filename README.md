@@ -34,4 +34,4 @@ python 4_percentual_estados.py
 python 5_inverter_string.py
 ```
 
-Desenvolvido por [Seu Nome].
+Desenvolvido por Caíque Faro.
